@@ -1,4 +1,4 @@
-![Horn_V4_Full_2](https://github.com/user-attachments/assets/5be365b9-317e-42f5-b433-9812c67200ab)![image](https://github.com/user-attachments/assets/0743622f-4073-4694-9783-097598828f89)# Various mechanical project, design, simulation and prototyping
+## Various mechanical project, design, simulation and prototyping
 
 # Heavy Drone Frame design 
 
