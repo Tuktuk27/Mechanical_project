@@ -5,7 +5,7 @@
 Develop a modular heavy drone: Quadcopter / Octocopter (UAS) with a 100 Kg payload 
 
 <p align="center">
-    <img width="500" src="https://github.com/user-attachments/assets/13ac7033-826b-4d13-93a5-3577a2a2bf1a" alt="Material Bread logo">
+    <img width="500" src="https://github.com/user-attachments/assets/13ac7033-826b-4d13-93a5-3577a2a2bf1a">
 </p>
 
 <p align="center">
@@ -34,31 +34,31 @@ Can be dissembled for transportation & storage
 </p>
 
 <p align="center">
-    <img width="300" src="https://github.com/user-attachments/assets/a13b7a30-5cf0-4a53-9fdb-ebe4038d52cd" alt="Material Bread logo">
+    <img width="300" src="https://github.com/user-attachments/assets/a13b7a30-5cf0-4a53-9fdb-ebe4038d52cd">
 </p>
 
 <p align="center">
-    <img width="200" src="https://github.com/user-attachments/assets/cc2895cf-9c88-40fc-8fb7-efb77c456e2c" alt="Material Bread logo">
+    <img width="200" src="https://github.com/user-attachments/assets/cc2895cf-9c88-40fc-8fb7-efb77c456e2c">
 </p>
 
 # Lamp conception in 3D printing and laser cutting
 
 <p align="center">
-    <img width="300" src="https://github.com/user-attachments/assets/28c7b00b-fe52-46b7-844a-bc687289e837" alt="Material Bread logo">
+    <img width="300" src="https://github.com/user-attachments/assets/28c7b00b-fe52-46b7-844a-bc687289e837">
 </p>
 
 <p align="center">
-    <img width="300" src="https://github.com/user-attachments/assets/2b362b8d-bc3f-4568-8981-556d8b23d07d" alt="Material Bread logo">
+    <img width="300" src="https://github.com/user-attachments/assets/2b362b8d-bc3f-4568-8981-556d8b23d07d">
 </p>
 
 <p align="center">
-    <img width="300" src="https://github.com/user-attachments/assets/d1f7ea6c-ffef-46d3-a5f5-052e45ee6e6e" alt="Material Bread logo">
+    <img width="300" src="https://github.com/user-attachments/assets/d1f7ea6c-ffef-46d3-a5f5-052e45ee6e6e">
 </p>
 
 # Design and conception of a quadcopter frame
 <p align="center">
-    <img width="300" src="https://github.com/user-attachments/assets/37bbb229-87ee-484b-a289-e1833e66866b" alt="Material Bread logo">
+    <img width="300" src="https://github.com/user-attachments/assets/37bbb229-87ee-484b-a289-e1833e66866b">
 </p>
 <p align="center">
-    <img width="300" src="https://github.com/user-attachments/assets/2ac80864-72d4-46db-aa06-9473d696927e" alt="Material Bread logo">
+    <img width="300" src="https://github.com/user-attachments/assets/2ac80864-72d4-46db-aa06-9473d696927e">
 </p>
