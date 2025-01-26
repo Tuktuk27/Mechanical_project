@@ -10,7 +10,7 @@ Develop a modular heavy drone: Quadcopter / Octocopter (UAS) with a 100 Kg paylo
 </p>
 
 <p align="center">
-    <img width="400" src="https://github.com/user-attachments/assets/7bdfbeac-12ab-405a-9bb4-4c4f9ad9e286">
+    <img width="600" src="https://github.com/user-attachments/assets/7bdfbeac-12ab-405a-9bb4-4c4f9ad9e286">
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ Develop a modular heavy drone: Quadcopter / Octocopter (UAS) with a 100 Kg paylo
 </p>
 
 <p align="center">
-    <img width="400" src="https://github.com/user-attachments/assets/734107ae-1709-4f1d-b35b-e66a4e7573d6">
+    <img width="600" src="https://github.com/user-attachments/assets/734107ae-1709-4f1d-b35b-e66a4e7573d6">
 </p>
 
 
