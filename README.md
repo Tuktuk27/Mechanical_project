@@ -26,6 +26,14 @@ Develop a modular heavy drone: Quadcopter / Octocopter (UAS) with a 100 Kg paylo
 
 Reproduction of a giant exponential horn and historic music instrument parts for the Luxembourg Centre for Contemporary and Digital History (C²DH)
 
+Weight: approx. 10kg 
+Length: 2.4m Horn Mouth 1.2m
+Can be dissembled for transportation & storage
+
+<p align="center">
+    <img width="300" src="https://github.com/user-attachments/assets/ea55c9fc-f88d-4d10-8c18-3a39b24d7dcb">
+</p>
+
 <p align="center">
     <img width="300" src="https://github.com/user-attachments/assets/a13b7a30-5cf0-4a53-9fdb-ebe4038d52cd" alt="Material Bread logo">
 </p>
