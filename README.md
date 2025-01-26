@@ -4,9 +4,8 @@
 
 Develop a modular heavy drone: Quadcopter / Octocopter (UAS) with a 100 Kg payload 
 
-
 <p align="center">
-    <img width="500" src="https://github.com/user-attachments/assets/c6a345ca-bba2-45fa-8282-5d9eeb5bc2a4" alt="Material Bread logo">
+    <img width="500" src="https://github.com/user-attachments/assets/13ac7033-826b-4d13-93a5-3577a2a2bf1a" alt="Material Bread logo">
 </p>
 
 <p align="center">
