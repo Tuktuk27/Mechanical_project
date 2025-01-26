@@ -6,19 +6,19 @@ Develop a modular heavy drone: Quadcopter / Octocopter (UAS) with a 100 Kg paylo
 
 
 <p align="center">
-    <img width="300" src="https://github.com/user-attachments/assets/c6a345ca-bba2-45fa-8282-5d9eeb5bc2a4" alt="Material Bread logo">
+    <img width="500" src="https://github.com/user-attachments/assets/c6a345ca-bba2-45fa-8282-5d9eeb5bc2a4" alt="Material Bread logo">
 </p>
 
 <p align="center">
-    <img width="300" src="https://github.com/user-attachments/assets/7bdfbeac-12ab-405a-9bb4-4c4f9ad9e286">
+    <img width="400" src="https://github.com/user-attachments/assets/7bdfbeac-12ab-405a-9bb4-4c4f9ad9e286">
 </p>
 
 <p align="center">
-    <img width="300" src="https://github.com/user-attachments/assets/301e48a3-d828-404c-b7a3-18256a829970">
+    <img width="400" src="https://github.com/user-attachments/assets/301e48a3-d828-404c-b7a3-18256a829970">
 </p>
 
 <p align="center">
-    <img width="300" src="https://github.com/user-attachments/assets/734107ae-1709-4f1d-b35b-e66a4e7573d6">
+    <img width="400" src="https://github.com/user-attachments/assets/734107ae-1709-4f1d-b35b-e66a4e7573d6">
 </p>
 
 
