@@ -1,6 +1,6 @@
-## Various mechanical project, design, simulation and prototyping
+# Various mechanical project, design, simulation and prototyping
 
-# Heavy Drone Frame design 
+## Heavy Drone Frame design 
 
 Develop a modular heavy drone: Quadcopter / Octocopter (UAS) with a 100 Kg payload 
 
@@ -21,7 +21,7 @@ Develop a modular heavy drone: Quadcopter / Octocopter (UAS) with a 100 Kg paylo
 </p>
 
 
-# Giant exponential horn
+## Giant exponential horn
 
 Reproduction of a giant exponential horn and historic music instrument parts for the Luxembourg Centre for Contemporary and Digital History (C²DH)
 
@@ -41,7 +41,7 @@ Can be dissembled for transportation & storage
     <img width="200" src="https://github.com/user-attachments/assets/cc2895cf-9c88-40fc-8fb7-efb77c456e2c">
 </p>
 
-# Lamp conception in 3D printing and laser cutting
+## Lamp conception in 3D printing and laser cutting
 
 <p align="center">
     <img width="300" src="https://github.com/user-attachments/assets/28c7b00b-fe52-46b7-844a-bc687289e837">
@@ -55,7 +55,7 @@ Can be dissembled for transportation & storage
     <img width="300" src="https://github.com/user-attachments/assets/d1f7ea6c-ffef-46d3-a5f5-052e45ee6e6e">
 </p>
 
-# Design and conception of a quadcopter frame
+## Design and conception of a quadcopter frame
 <p align="center">
     <img width="300" src="https://github.com/user-attachments/assets/37bbb229-87ee-484b-a289-e1833e66866b">
 </p>
