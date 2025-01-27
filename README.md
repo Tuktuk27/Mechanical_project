@@ -77,14 +77,6 @@ Can be dissembled for transportation & storage
     <img width="300" src="https://github.com/user-attachments/assets/d2b5f050-c7f7-4010-8c98-8256d756ef77">
 </p>
 
-<p align="center">
-    <img width="300" src="https://github.com/user-attachments/assets/608c57f5-65c2-4147-9f29-d5ae5bd9b521">
-</p>
-
-<p align="center">
-    <img width="300" src="https://github.com/user-attachments/assets/316e2486-0d05-464b-9e44-cc2ee90fe9a0">
-</p>
-
 
 ## Design and conception of a quadcopter frame
 <p align="center">
