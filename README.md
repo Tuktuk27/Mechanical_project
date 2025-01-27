@@ -20,6 +20,28 @@ Develop a modular heavy drone: Quadcopter / Octocopter (UAS) with a 100 Kg paylo
     <img width="600" src="https://github.com/user-attachments/assets/734107ae-1709-4f1d-b35b-e66a4e7573d6">
 </p>
 
+3D design, rendering and prototyping
+
+
+<p align="center">
+    <img width="600" src="https://github.com/user-attachments/assets/a92df293-dd3d-47f8-812c-de3c8a074e5f">
+</p>
+
+<p align="center">
+    <img width="600" src="https://github.com/user-attachments/assets/d46c7c23-c596-4119-a8c4-b3ec16de4364">
+</p>
+
+<p align="center">
+    <img width="600" src="https://github.com/user-attachments/assets/6164e2d4-14fa-4b49-8afd-a943480c0d5e">
+</p>
+
+<p align="center">
+    <img width="600" src="https://github.com/user-attachments/assets/22f4a78c-e7e2-4a7b-8fdd-3f6a4bcfb218">
+</p>
+
+<p align="center">
+    <img width="600" src="https://github.com/user-attachments/assets/66991e8e-a7d8-4e72-ab24-e3e715b650a5">
+</p>
 
 ## Giant exponential horn
 
@@ -52,8 +74,17 @@ Can be dissembled for transportation & storage
 </p>
 
 <p align="center">
-    <img width="300" src="https://github.com/user-attachments/assets/d1f7ea6c-ffef-46d3-a5f5-052e45ee6e6e">
+    <img width="300" src="https://github.com/user-attachments/assets/d2b5f050-c7f7-4010-8c98-8256d756ef77">
 </p>
+
+<p align="center">
+    <img width="300" src="https://github.com/user-attachments/assets/608c57f5-65c2-4147-9f29-d5ae5bd9b521">
+</p>
+
+<p align="center">
+    <img width="300" src="https://github.com/user-attachments/assets/316e2486-0d05-464b-9e44-cc2ee90fe9a0">
+</p>
+
 
 ## Design and conception of a quadcopter frame
 <p align="center">
