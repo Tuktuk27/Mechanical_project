@@ -51,11 +51,14 @@ Successfully designed and completed several configurations of the heavy drone fr
 
 ## Giant exponential horn
 
-Reproduction of a giant exponential horn and historic music instrument parts for the Luxembourg Centre for Contemporary and Digital History (C²DH)
+Project Description:
+This project aimed to restore a giant exponential horn and historical instrument components for the Luxembourg Center for Contemporary and Digital History. The horn was designed to be 2.4 meters long, with a mouth diameter of 1.2 meters, a weight of approximately 10 kg, and capable of being disassembled for transportation and storage, while ensuring optimal sound propagation as per scientific references.
 
-Weight: approx. 10kg 
-Length: 2.4m Horn Mouth 1.2m
-Can be dissembled for transportation & storage
+Role and Responsibilities:
+In this project, I was responsible for the 3D design of the horn to meet 3D printing requirements and conducted the assembly work. I referred to a scientific paper to follow equations ensuring optimal sound propagation through the horn. I also engaged with the client, adapting the design to their specifications, and was supervised by a teacher throughout the process. For the horn and small gramophone components, I selected appropriate materials that balanced printing quality, strength, and sound handling, while adhering to the constraints of 3D printer dimensions and capabilities.
+
+Project Outcome:
+The giant horn was successfully designed and manufactured, meeting the requirements for disassembly, reassembly, and optimized acoustic performance. Suitable materials and printing parameters were chosen to ensure high-quality results. The final product exceeded expectations, serving as both a functional instrument and a striking piece for the Luxembourg Center for Contemporary and Digital History.
 
 <p align="center">
     <img width="300" src="https://github.com/user-attachments/assets/ea55c9fc-f88d-4d10-8c18-3a39b24d7dcb">
@@ -71,6 +74,8 @@ Can be dissembled for transportation & storage
 
 ## Lamp conception in 3D printing and laser cutting
 
+Designed and fabricated a lamp using 3D printing and laser cutting, incorporating wood and 3D-printed materials, combined with electronic components to enable lighting functionality.
+
 <p align="center">
     <img width="300" src="https://github.com/user-attachments/assets/28c7b00b-fe52-46b7-844a-bc687289e837">
 </p>
@@ -85,6 +90,13 @@ Can be dissembled for transportation & storage
 
 
 ## Design and conception of a quadcopter frame
+
+Project Description: Designed and constructed the frame of a quadcopter, integrating electronic components to realize drone functionality.
+
+Project Responsibilities: As the team leader, collaborated with another member to complete the project. Primarily responsible for the design and fabrication of the drone frame, while also overseeing task allocation and overall project direction.
+
+Project Outcome: Successfully developed a fully functional quadcopter frame with a robust and well-designed structure, providing a solid foundation for subsequent electronic component integration.
+
 <p align="center">
     <img width="300" src="https://github.com/user-attachments/assets/37bbb229-87ee-484b-a289-e1833e66866b">
 </p>
