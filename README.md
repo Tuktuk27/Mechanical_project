@@ -2,7 +2,14 @@
 
 ## Heavy Drone Frame design 
 
-Develop a modular heavy drone: Quadcopter / Octocopter (UAS) with a 100 Kg payload 
+Project Description:
+This project aimed to design and develop a modular heavy drone frame, with both quadcopter and octocopter configurations, capable of carrying a 100 kg payload. The project involved 3D design, rendering, prototyping, and conducting strength analysis, natural frequency and resonant frequency evaluations, and ensuring safety factors.
+
+Role and Responsibilities:
+As a mechanical engineer, I was responsible for designing the drone’s frame and shape, exploring multiple configurations, and performing strength analysis and safety factor calculations to ensure structural stability and reliability. I also handled part orders, assembly, 2D drawings, and 3D modeling. Additionally, I contributed to creating images for project presentations, and actively participated in team meetings to make design decisions and report progress.
+
+Project Outcome:
+Successfully designed and completed several configurations of the heavy drone frame, with comprehensive strength analysis and optimization ensuring safety across different conditions. Through 3D modeling and rendering, I provided visual design concepts, and the prototype was successfully built, meeting the payload and performance goals.
 
 <p align="center">
     <img width="500" src="https://github.com/user-attachments/assets/13ac7033-826b-4d13-93a5-3577a2a2bf1a">
@@ -21,7 +28,6 @@ Develop a modular heavy drone: Quadcopter / Octocopter (UAS) with a 100 Kg paylo
 </p>
 
 3D design, rendering and prototyping
-
 
 <p align="center">
     <img width="600" src="https://github.com/user-attachments/assets/a92df293-dd3d-47f8-812c-de3c8a074e5f">
